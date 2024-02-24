@@ -5,6 +5,7 @@ items:
  - racerxdl/riskow
  - DuinOS/riscuinho
  - carlosedp/chiselv
+ - JN513/Risco-5
 display_name: Risc-V Cores Made in Brazil
 created_by: carlosdelfino 
 image: riscv-brazil.png
